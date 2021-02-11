@@ -1,5 +1,5 @@
-# Livro de receitas :cook
+# Livro de receitas
 
-Olá! Bem vindo ao meu livro de reitas!! :wave
+Olá! Bem vindo ao meu livro de reitas!!
 
-- - Strogonoff de Frango
+- Strogonoff de Frango
